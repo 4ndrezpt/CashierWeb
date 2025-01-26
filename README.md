@@ -1,2 +1,4 @@
 # CashierWeb
-WebApp made with Angular
+WebApp made with Angular in the frontend
+...
+
